@@ -42,7 +42,9 @@ public class maps {
 		
 		
 		
+		String title = driver.getTitle();
 		
+		System.out.println(title);
 		
 		
 		
