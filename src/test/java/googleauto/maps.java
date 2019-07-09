@@ -40,8 +40,6 @@ public class maps {
 			System.out.println(data.getText());
 		}
 		
-		String title = driver.getTitle();
-		System.out.println(title);
 		
 		
 		
